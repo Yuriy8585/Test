@@ -11,7 +11,8 @@ double b = 0;
 a = N%10;
 b = N/10;
 
-Console.WriteLine("Cut" + " " + a);
+Console.Write("Last number");
+Console.WriteLine(a);
 Console.Write("Previous Numbers" + " " + b);
 
 
