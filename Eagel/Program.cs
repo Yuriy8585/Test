@@ -7,7 +7,9 @@ int countReshka = 0;
 
 while(true)
 {
-    int num = new Random().Next(0, 2);
+    Console.WriteLine("Enter Number = ");
+    int num = int.Parse(Console.ReadLine());  //ручной ввод
+    //int num = new Random().Next(0, 2);      //автоматический
     if (num == 0)
     {
         Console.WriteLine("OREL");
