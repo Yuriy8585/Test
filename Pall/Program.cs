@@ -3,7 +3,7 @@
 Console.Clear();
 Console.WriteLine("Enter WORD = ");
 
-string text = Console.ReadLine();
+string text = Console.ReadLine()!;
 string newText = "";
 
 int len = text.Length;
@@ -22,7 +22,7 @@ for (int i = 0; i < len; i++)
     }
 }
 
-if (newText.Lenght < 2) 
+if (newText.Length < 2) 
 { 
     Console.WriteLine("PALL");
 }
