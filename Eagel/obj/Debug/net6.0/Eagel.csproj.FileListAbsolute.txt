@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.AssemblyInfo.cs
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\bin\Debug\net6.0\Eagel.exe
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\bin\Debug\net6.0\Eagel.deps.json
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\bin\Debug\net6.0\Eagel.runtimeconfig.json
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\bin\Debug\net6.0\Eagel.dll
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\bin\Debug\net6.0\Eagel.pdb
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.dll
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\refint\Eagel.dll
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.pdb
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\Eagel.genruntimeconfig.cache
+C:\Users\HP\Desktop\GeekBrains\c#\Test\Eagel\obj\Debug\net6.0\ref\Eagel.dll
